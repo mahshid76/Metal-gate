@@ -1,0 +1,72 @@
+.container {
+  min-height: 100vh;
+  background: linear-gradient(150deg, #f9fafb, #d2d3d4);
+  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+.aboutpage {
+  text-align: center;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.aboutpage h2 {
+  margin: 40px 0 20px;
+  font-size: 32px;
+}
+
+.aboutpage p {
+  max-width: 90%;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 0 10px;
+  word-break: normal;
+  word-wrap: break-word;
+}
+
+.aboutpage img {
+  width: 60%;
+  max-width: 600px;
+  height: auto;
+  margin: 60px auto;
+  display: block;
+  border-radius: 10px;
+}
+
+@media (max-width: 480px) {
+  .aboutpage h2 {
+    font-size: 22px;
+  }
+
+  .aboutpage p {
+    font-size: 14px;
+    padding: 0 10px;
+  }
+
+  .aboutpage img {
+    width: 90%;
+    margin: 40px auto;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .aboutpage h2 {
+    font-size: 26px;
+  }
+
+  .aboutpage p {
+    max-width: 90%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    font-size: 14px;
+  }
+
+  .aboutpage img {
+    width: 75%;
+    margin: 50px auto;
+  }
+}

@@ -1,0 +1,61 @@
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.image {
+  width: 100%;
+  height:fit-content;
+  object-fit: cover;
+}
+
+.description {
+  padding: 1rem;
+  font-size: 1rem;
+  color: #333;
+  text-align: center;
+}
+.Projectwrapper {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.Projectwrapper:hover {
+  transform: scale(1.05);
+}
+
+.Projectwrapper img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+/* Responsive settings (optional improvements) */
+@media (min-width: 768px) {
+  .card {
+    max-width: 300px;
+  }
+
+  .description {
+    font-size: 1.1rem;
+  }
+}

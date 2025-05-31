@@ -1,0 +1,15 @@
+.container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f9fafb, #d2d3d4);
+  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+.Project {
+display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
