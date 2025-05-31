@@ -1,0 +1,104 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "imageUrl": "https://theconstructor.org/wp-content/uploads/2022/11/6-Types-of-Gates-based-on-their-Functions.jpg",
+      "description": "1 metal gates project"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2019/12/18F-VS.jpg",
+      "description": "2 metal gates project"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2020/01/12VS-16-1536x939.jpg",
+      "description": "3 metal gates project"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2020/01/14VS-16-1536x900.jpg",
+      "description": "4 metal gates project"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2020/01/14VS-15-1024x546.jpg",
+      "description": "5 metal gates project"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/54fb0340e4b021ab8419ae85/1426162486931-XTO769KSOQNUWZNV64KI/gate-11.jpg",
+      "description": "6 metal gates project"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://westchesterautomatedgate.com/wp-content/uploads/2022/08/GI-009.jpg",
+      "description": "7 metal gates project"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.pinimg.com/originals/09/96/02/09960266a1a23050abdf5ac67e0ccc1f.jpg",
+      "description": "8 metal gates project"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://th.bing.com/th/id/OIP.Ln5l4HVrsGvxHITfNRW9FAHaDx?rs=1&pid=ImgDetMain",
+      "description": "9 metal gates project"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://electricgatemasters.net/wp-content/uploads/2021/07/IMG_0506.jpg",
+      "description": "10 metal gates project"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://theconstructor.org/wp-content/uploads/2022/11/6-Types-of-Gates-based-on-their-Functions.jpg",
+      "description": "1 metal gates project"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2019/12/18F-VS.jpg",
+      "description": "2 metal gates project"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2020/01/12VS-16-1536x939.jpg",
+      "description": "3 metal gates project"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2020/01/14VS-16-1536x900.jpg",
+      "description": "4 metal gates project"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://dmvgates.com/wp-content/uploads/2020/01/14VS-15-1024x546.jpg",
+      "description": "5 metal gates project"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/54fb0340e4b021ab8419ae85/1426162486931-XTO769KSOQNUWZNV64KI/gate-11.jpg",
+      "description": "6 metal gates project"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://westchesterautomatedgate.com/wp-content/uploads/2022/08/GI-009.jpg",
+      "description": "7 metal gates project"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://i.pinimg.com/originals/09/96/02/09960266a1a23050abdf5ac67e0ccc1f.jpg",
+      "description": "8 metal gates project"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://th.bing.com/th/id/OIP.Ln5l4HVrsGvxHITfNRW9FAHaDx?rs=1&pid=ImgDetMain",
+      "description": "9 metal gates project"
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://electricgatemasters.net/wp-content/uploads/2021/07/IMG_0506.jpg",
+      "description": "10 metal gates project"
+    }
+  ]
+}
